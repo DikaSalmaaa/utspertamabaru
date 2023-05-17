@@ -4,7 +4,7 @@ import pengguna.Mhs;
 class Main {
     public static void main(String[] args) {
         
-        Mhs mhs = new Mhs("username", "password");
+        Mhs mhs = new Mhs("ini_username", "ini_password");
 
         mhs.setNama("Dika Salma Laili");
         mhs.setNim("G111200046");

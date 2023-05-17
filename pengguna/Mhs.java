@@ -6,7 +6,7 @@ public class Mhs extends User{
     private int smt;
 
     public Mhs (String username, String password) {
-      super("username", "password");  
+      super("ini_username", "ini_password");  
     }    
     public void setNama(String nama) {
         this.nama = nama;
